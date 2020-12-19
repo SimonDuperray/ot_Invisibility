@@ -12,7 +12,7 @@ Python script that render you invisible !
 	
 ## :computer: Technologies
 Chrono_Background is created with:
-* Python
+* Python (opencv - numpy)
 	
 ## :cd: Setup
 Clone these files anywhere and browse the code.
