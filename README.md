@@ -12,7 +12,7 @@ Python script that render you invisible !<br><br>
 [![invisi.png](https://i.postimg.cc/W1YYBG58/invisi.png)](https://postimg.cc/v49v9VFx)
 	
 ## :computer: Technologies
-Chrono_Background is created with:
+InvisibilityCoak is created with:
 * Python (opencv - numpy)
 	
 ## :cd: Setup
